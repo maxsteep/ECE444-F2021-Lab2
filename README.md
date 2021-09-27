@@ -10,3 +10,5 @@ Maxim Stepanov
 ![activity2Proof](https://github.com/maxsteep/ECE444-F2021-Lab2/blob/main/activity2Proof.png?raw=true)
 
 ![activity3Proof](https://github.com/maxsteep/ECE444-F2021-Lab2/blob/main/activity3Proof.png?raw=true)
+
+![activity4Proof](https://github.com/maxsteep/ECE444-F2021-Lab2/blob/main/activity4Proof.png?raw=true)
